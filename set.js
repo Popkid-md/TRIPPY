@@ -9,12 +9,12 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || 'zokk',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "𝐄𝐍𝐙𝐎 ",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "254743982206",              
+    OWNER_NAME: process.env.OWNER_NAME || "POPKID",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "254111385747",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
-    BOT : process.env.BOT_NAME || '𝐄𝐍𝐙𝐎 𝐌𝐃',
-    URL : process.env.BOT_MENU_LINKS || '',
+    BOT : process.env.BOT_NAME || 'POPKID MD',
+    URL : process.env.BOT_MENU_LINKS || 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l',
     MODE: process.env.PUBLIC_MODE || "no",
                   
     PM_PERMIT: process.env.PM_PERMIT || 'no',
