@@ -71,14 +71,14 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("𝐄𝐍𝐙𝐎 𝐌𝐃") ; return};
+        if(!superUser) { repondre("POPKID MD") ; return};
 
-      await   repondre("*https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x");
-         repondre("𝐄𝐍𝐙𝐎 𝐌𝐃 𝐍𝐞𝐯𝐞𝐫 𝐒𝐥𝐞𝐞𝐩. 𝐌𝐚𝐲𝐛𝐞 𝐲𝐨𝐮😅.")
+      await   repondre("*https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l");
+         repondre("popkid 𝐍𝐞𝐯𝐞𝐫 𝐒𝐥𝐞𝐞𝐩. 𝐌𝐚𝐲𝐛𝐞 𝐲𝐨𝐮😅.")
      }
  } else {
 
-    if(!superUser) { repondre ("𝐄𝐍𝐙𝐎 𝐌𝐃 ") ; return};
+    if(!superUser) { repondre ("POPKID MD ") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x. ')
+repondre(' https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l. ')
 
 }
     });
