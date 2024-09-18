@@ -17,7 +17,7 @@ const sleep =  (ms) =>{
     const { ms, repondre, arg, nomAuteurMessage, superUser } = commandeOptions;
   
     if (!superUser) {
-      repondre('Only Marisel can use this command'); return;
+      repondre('Only popkid can use this command'); return;
     }
     //const apikey = conf.APILOLHUMAIN
   
@@ -47,7 +47,7 @@ const sleep =  (ms) =>{
         type = 'not animated sticker'
       }
   
-      let msg = `   Bugatti-stickers-dl
+      let msg = `   popkid-stickers-dl
       
   *Name :* ${stickers.data.result.name}
   *Type :* ${type} 
