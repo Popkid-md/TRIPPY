@@ -34,27 +34,27 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *TREX-MD IMPORTANT INFO* 
+   *POPKID-MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/betingrich/Bugatti
-> https://github.com/berabotsmd/Trex-Md
+> https://github.com/Popkid-md/TRIPPY
+> https://github.com/Popkid-md/TRIPPY
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
->https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
+> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://wa.me/254740007567?text=Hi+Marisel+I+Need+Help
->https://wa.me/254743982206?text=Hi+Bruce+I+Need+Help
+> https://wa.me/254111385747?text=Hi+POPKID+I+Need+Help
+>https://wa.me/254732297194?text=Hi+IAN+I+Need+Help
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *𝐁𝐞𝐫𝐚*
+│❒⁠⁠⁠⁠ *DEV* : *POPKID*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝐓𝐑𝐄𝐗 𝐌𝐃 𝐋𝐀𝐁
+     POPKID 𝐌𝐃 𝐋𝐀𝐁
 
 ❒────────────────────❒`;
 
