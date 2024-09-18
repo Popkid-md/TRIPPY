@@ -34,7 +34,7 @@
   **𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏**
 
 
-<a href="https://github.com/joeljamestech/JOEL-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/Popkid-md/TRIPPY/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 **star✨ my repo if you like this bot🤖**
 
@@ -66,7 +66,7 @@
 
 
 <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/joeljamestech/JOEL-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/Popkid-md/TRIPPY/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
@@ -87,7 +87,7 @@
     <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
   </tr>
   <tr>
-    <td><a href="https://wa.link/e9lbut"><img src="https://i.ibb.co/JyNgPx0/IMG-20240916-WA0014.jpg" width="180"</td>
+    <td><a href="https://wa.link/e9lbut"><img src="https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg" width="180"</td>
     <td><a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img src="https://i.ibb.co/kJYQ1PV/IMG-20240916-WA0017.jpg" width="180"</td>
   </tr>
 </table>
