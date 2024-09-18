@@ -36,14 +36,14 @@ zokou({
         // Prepare the message with song details
         const infoMess = {
           image: { url: videos[0].thumbnail },
-          caption: `*ENZO-MD SONG PLAYER*\n
+          caption: `*popkid-MD SONG PLAYER*\n
 ╭───────────────◆
-│⿻ *Title:* ${apiResult.result.title}
-│⿻ *Quality:* ${apiResult.result.type}
-│⿻ *Duration:* ${videos[0].timestamp}
-│⿻ *Viewers:* ${videos[0].views}
-│⿻ *Uploaded:* ${videos[0].ago}
-│⿻ *Artist:* ${videos[0].author.name}
+│✍️ *Title:* ${apiResult.result.title}
+│😈 *Quality:* ${apiResult.result.type}
+│🥺 *Duration:* ${videos[0].timestamp}
+│♥️ *Viewers:* ${videos[0].views}
+│❣️ *Uploaded:* ${videos[0].ago}
+│🏦 *Artist:* ${videos[0].author.name}
 ╰────────────────◆
 ⦿ *Direct YtLink:* ${videoUrl}`
         };
@@ -102,14 +102,14 @@ zokou({
         // Prepare the message with song details
         const infoMess = {
           image: { url: videos[0].thumbnail },
-          caption: `*ENZO-MD SONG PLAYER*\n
+          caption: `*POPKID-MD SONG PLAYER*\n
 ╭───────────────◆
-│⿻ *Title:* ${apiResult.result.title}
-│⿻ *Quality:* ${apiResult.result.type}
-│⿻ *Duration:* ${videos[0].timestamp}
-│⿻ *Viewers:* ${videos[0].views}
-│⿻ *Uploaded:* ${videos[0].ago}
-│⿻ *Artist:* ${videos[0].author.name}
+│🏦 *Title:* ${apiResult.result.title}
+│🏦 *Quality:* ${apiResult.result.type}
+│🏦 *Duration:* ${videos[0].timestamp}
+│🏦 *Viewers:* ${videos[0].views}
+│🏦 *Uploaded:* ${videos[0].ago}
+│🏦 *Artist:* ${videos[0].author.name}
 ╰────────────────◆
 ⦿ *Direct YtLink:* ${videoUrl}`
         };
@@ -169,14 +169,14 @@ zokou({
         // Prepare the message with video details
         const infoMess = {
           image: { url: videos[0].thumbnail },
-          caption: `*ENZO-MD VIDEO PLAYER*\n
+          caption: `*POPKID-MD VIDEO PLAYER*\n
 ╭───────────────◆
-│⿻ *Title:* ${apiResult.result.title}
-│⿻ *Quality:* ${apiResult.result.type}
-│⿻ *Duration:* ${videos[0].timestamp}
-│⿻ *Viewers:* ${videos[0].views}
-│⿻ *Uploaded:* ${videos[0].ago}
-│⿻ *Artist:* ${videos[0].author.name}
+│❣️ *Title:* ${apiResult.result.title}
+│♥️ *Quality:* ${apiResult.result.type}
+│♥️ *Duration:* ${videos[0].timestamp}
+│❣️ *Viewers:* ${videos[0].views}
+│♥️ *Uploaded:* ${videos[0].ago}
+│♥️ *Artist:* ${videos[0].author.name}
 ╰────────────────◆
 ⦿ *Direct YtLink:* ${videoUrl}`
         };
@@ -235,7 +235,7 @@ zokou({
         // Prepare the message with video details
         const infoMess = {
           image: { url: videos[0].thumbnail },
-          caption: `*ENZO-MD VIDEO PLAYER*\n
+          caption: `*POPKID-MD VIDEO PLAYER*\n
 ╭───────────────◆
 │⿻ *Title:* ${apiResult.result.title}
 │⿻ *Quality:* ${apiResult.result.type}
