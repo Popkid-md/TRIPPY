@@ -33,7 +33,7 @@ zokou(
     const end = new Date().getTime();
     const ping = end - start;
     await zk.sendMessage(dest, {
-      text: ` *Pong! ${ping}ms* 🫥`, edit: {
+      text: ` *Pong! ${ping}ms* ✍️`, edit: {
         id: msg.key.id, remoteJid: dest
       }});
     await zk.sendMessage(dest, {
@@ -131,7 +131,7 @@ zokou(
       ms
     } = commandOptions;
     const tumbUrl = 'https://i.ibb.co/wyYKzMY/68747470733a2f2f74656c656772612e70682f66696c652f6530376133643933336662346361643062333739312e6a7067.jpg';
-    const runtimetext = `🤖 *Trex Has Been Running For ${runtime(process.uptime())}* 🤖`;
+    const runtimetext = `🤖 *popkid Has Been Running For ${runtime(process.uptime())}* 🤖`;
     zk.sendMessage(dest, {
       text: runtimetext,
       contextInfo: {
