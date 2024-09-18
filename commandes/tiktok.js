@@ -1,6 +1,6 @@
 /*
-ZeroTwo-MD V1.0 
- Coded By VihangaYT
+popkid-MD V1.0 
+ Coded By popkid
 
 Modified File : tiktok.js
 Modified Date : 8/23/2023
