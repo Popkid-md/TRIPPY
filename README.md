@@ -61,7 +61,10 @@
 <a
       href='https://dashboard.heroku.com/new?template=https://github.com/Popkid-md/TRIPPY/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</a></p>
+- <br>
+<a href='https://popkid-new-sessions.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 
 
@@ -113,14 +116,4 @@
 *𝙽𝚘𝚝𝚎* :*Popkid 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
 
 +254111385747
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</a></p>
-- <br>
-<a href='https://popkid-new-sessions.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-- 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-</p>
-
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Cheroo51/ENZO-MD &template=https://github.com/Cheroo51/ENZO-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
