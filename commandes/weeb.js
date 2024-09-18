@@ -7,7 +7,7 @@ const { writeFile } = require('fs/promises')
 zokou({
   nomCom: "waifu",
   categorie: "Weeb",
-  reaction: "😏"
+  reaction: "🫣😉"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
