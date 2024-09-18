@@ -15,7 +15,7 @@ zokou({ nomCom: "𝑩𝒖𝒈𝒂𝒕𝒕𝒊",
         // console.log("&€"+res);
       //  let lien = "https://e1.yotools.net" + res;
         repondre("* processing...*");
-        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t *𝐋𝐨𝐠𝐨 𝐁𝐲 𝐓𝐫𝐞𝐱*" }, { quoted: ms });
+        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t *𝐋𝐨𝐠𝐨 𝐁𝐲 popkid*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -39,7 +39,7 @@ zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest
         await zk.sendMessage(dest, { text: " *\t Traitement en cours ...*" }, { quoted: ms });
        // var idImg = Object.values(imgInfo)[3];
        
-        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t *𝐋𝐨𝐠𝐨 𝐁𝐲 𝐓𝐫𝐞𝐱*" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t *𝐋𝐨𝐠𝐨 𝐁𝐲 popkid*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -242,7 +242,7 @@ var lien="https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html";
          
 
 repondre("  processing ...")
-         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *𝐋𝐨𝐠𝐨 𝐁𝐲 𝐓𝐫𝐞𝐱*"})
+         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *𝐋𝐨𝐠𝐨 𝐁𝐲 popkid*"})
          
         // await zk.sendMessage(dest,{image:{url:lienImage},caption:"\t *Logo by Zokou-Md*"})
          
@@ -266,7 +266,7 @@ var {ms,repondre,arg,prefixe}=commandeOptions;
     var lien ="https://en.ephoto360.com/create-water-effect-text-online-295.html";
     var img =await mumaker.ephoto(lien,arg);
     repondre(" processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:"  *𝐋𝐨𝐠𝐨 𝐁𝐲 𝐓𝐫𝐞𝐱*"})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:"  *𝐋𝐨𝐠𝐨 𝐁𝐲 popkid*"})
   }catch(e){repondre(`🥵🥵 ${e}`)}
 
 });
@@ -402,7 +402,7 @@ zokou({ nomCom: "thor", categorie: "Logo", reaction: "🔨" }, async (dest, zk, 
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-thor-logo-style-text-effect-online-1064.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by popkid' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -419,7 +419,7 @@ zokou({ nomCom: "neon", categorie: "Logo", reaction: "💡" }, async (dest, zk, 
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/neon-text-effect-online-879.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by popkid' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -438,7 +438,7 @@ zokou({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeO
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
-      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐁𝐮𝐠𝐚𝐭𝐭𝐢*"});
+      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 popkid*"});
     }catch(e){repondre(e)}
   
 })
@@ -457,7 +457,7 @@ zokou({nomCom:"gold",categorie:"Logo",reaction:"🧚🏿‍♀️"},async(dest,z
 
     var img = await mumaker.ephoto(lien,arg);
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐓𝐫𝐞𝐱*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 popkid*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -476,7 +476,7 @@ zokou({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOp
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *𝐋𝐨𝐠𝐨 𝐛𝐲 𝐓𝐫𝐞𝐱*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *𝐋𝐨𝐠𝐨 𝐛𝐲 popkid*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -494,7 +494,7 @@ zokou({nomCom:"incandescent",categorie:"Logo",reaction:"😋"},async(dest,zk,com
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *𝐋𝐨𝐠𝐨 𝐁𝐲 𝐓𝐫𝐞𝐱*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *𝐋𝐨𝐠𝐨 𝐁𝐲 popkid*"},{quoted:ms})
   } catch(e){repondre(e)}
 })
 
@@ -510,7 +510,7 @@ zokou({ nomCom: "gif×1", categorie: "Logo", reaction: "😋" }, async (dest, zk
     const lien = `https://api.caliph.biz.id/api/kaneki?nama=${encodeURIComponent(text)}&apikey=caliphkey`;
     const img = await mumaker.sendFile(m.chat, lien, 'logo.png', '✅ Result', m);
     repondre("Processing...");
-    await zk.sendMessage(dest, { image: { url: img }, caption: "*𝐋𝐨𝐠𝐨 𝐁𝐲 𝐓𝐫𝐞𝐱*" }, { quoted: ms });
+    await zk.sendMessage(dest, { image: { url: img }, caption: "*𝐋𝐨𝐠𝐨 𝐁𝐲 popkid*" }, { quoted: ms });
   } catch (e) {
     repondre(e);
   }
