@@ -1,4 +1,4 @@
- </h1> 
+</h1> 
 <p align="center">POPKID MD V4.0.0
  
  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=POPKID MD BOT +WHATSAPP; MULTI+SERVICE+REVOLUTIONIZES;CREATE+BY+POPKID+TECH;BOT DATED+06.6.2024" alt="Typing SVG" /></a>
@@ -39,19 +39,12 @@
 **star✨ my repo if you like this bot🤖**
 
 
-   **𝟐. 𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐓𝐄𝐏**
-
   
-
-
-   **𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐁𝐘**
  
 
-<a href="popkid-new-sessions.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
  
 
-<a href="popkid-new-sessions.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
   **𝟑.𝐓𝐇𝐈𝐑𝐃 𝐒𝐓𝐄𝐏**  
@@ -120,9 +113,14 @@
 *𝙽𝚘𝚝𝚎* :*Popkid 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
 
 +254111385747
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</a></p>
+- <br>
+<a href='https://popkid-new-sessions.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
+- 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+</p>
 
-
-
-
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Cheroo51/ENZO-MD &template=https://github.com/Cheroo51/ENZO-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
