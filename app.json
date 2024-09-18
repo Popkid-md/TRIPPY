@@ -1,9 +1,9 @@
 {
-"name":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+"name":"POPKID MD",
   "description":"𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/ZVB1RKQ/IMG-20240917-WA0293-2.jpg",
-  "repository":"https://github.com/Cheroo51/ENZO-MD",
+  "logo":"https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg",
+  "repository":"https://github.com/Popkid-md/TRIPPY",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "value":"POPKID MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/ZVB1RKQ/IMG-20240917-WA0293-2.jpg",
+      "value":"https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐄𝐍𝐙𝐎 "
+    "value": "POPKID "
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254784115308"
+    "value": "254111385747"
   },
     "WARN_COUNT":
   {
