@@ -21,7 +21,7 @@ zokou({ nomCom: "yts", categorie: "Search", reaction: "🐅" }, async (dest, zk,
 for (let i = 0; i < 15; i++) {
   captions += `𝐓𝐫𝐞𝐱 𝐌𝐝\n${i + 1}. Title: ${resultat[i].title}\nTime : ${resultat[i].timestamp}\nUrl: ${resultat[i].url}\n`;
 }
-    captions += "\n======\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝐓𝐫𝐞𝐱 𝐌𝐝*";
+    captions += "\n======\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 popkid md*";
 
     // repondre(captions)
     zk.sendMessage(dest, { image: { url: resultat[0].thumbnail }, caption: captions }, { quoted: ms });
@@ -77,7 +77,7 @@ _*En cours de téléchargement...*_\n\n`
 
     fileStream.on('finish', () => {
       // Envoi du fichier vidéo en utilisant l'URL du fichier local
-      zk.sendMessage(origineMessage, { video: { url: `./${filename}` }, caption: "Powered by *Zokou-Md*", gifPlayback: false }, { quoted: ms });
+      zk.sendMessage(origineMessage, { video: { url: `./${filename}` }, caption: "Powered by *popkid-Md*", gifPlayback: false }, { quoted: ms });
 
     });
 
