@@ -1,124 +1,128 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ 𝐄𝐍𝐙𝐎 𝐌𝐃-★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝐄𝐍𝐙𝐎;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
- </p>
-<p align="center">
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> <a>
-<p align="center">  
+ </h1> 
+<p align="center">POPKID MD V4.0.0
+ 
+ <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=POPKID MD BOT +WHATSAPP; MULTI+SERVICE+REVOLUTIONIZES;CREATE+BY+POPKID+TECH;BOT DATED+06.6.2024" alt="Typing SVG" /></a>
+ <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
+ <img alt="POPKIDS BUG BOT" height="300" src="https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg">
+  
+</h1> 
+<p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> POPKID MD </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚊 𝚋𝚘𝚝 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐄𝐍𝐙𝐎 𝐌𝐃" alt="Typing SVG"/></a>
 
-<p align="center">  
-  <a href="https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D">
-    <img alt="wasi" height="400" src="https://i.ibb.co/0fgBYmD/Photo-1726167332358.png">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">𝐄𝐍𝐙𝐎 𝐌𝐃</h1>
-  </a>
-    <div align="center">
+  <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
 </div>
+
+
+    
  
-</p>
-<p align="center">
-<a href="https://github.com/Cheroo51"><img title="Author" src="https://img.shields.io/badge/Cheroo51-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254743982206"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<a href="https://github.com/berabotsmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Cheroo51?label=Followers&style=social"></a>
-<a href="https://github.com/Cheroo51/ENZO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Cheroo51/ENZO-MD?&style=social"></a>
-<a href="https://github.com/Cheroo51/ENZO-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Cheroo51/ENZO-MD?style=social"></a>
-<a href="https://github.com/Cheroo51/ENZO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Cheroo51/ENZO-MD?label=Watching&style=social"></a>
-</p>></a>                     
-
-   <h1 align="center"                  
-
-
-
-***
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</a></p>
-- <br>
-<a href='https://enzo-md-sessions-generator.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-
-- 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-</p>
-
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Cheroo51/ENZO-MD &template=https://github.com/Cheroo51/ENZO-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</p>
-   
-##
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Join my channel for updates
-<a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-
-HOW TO REACH THE OWNER? 
  
-   
-   <a href="https://wa.me/254743982206">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a
-
-    ## Ask any thing
-
-</p>
-
-## STEPS TO DEPLOY YOUR BOT
-
-
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/Cheroo51/ENZO-MD/fork)
-
-2, TAP ON GET SESSIONS
 
 
 
-3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
+---
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU...
 
-</p>
 
-*𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑*
+  **HOW TO DEPLOY POPKID MD V𝟒**
+
+ 
+
+
+  **𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏**
+
+
+<a href="https://github.com/joeljamestech/JOEL-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+**star✨ my repo if you like this bot🤖**
+
+
+   **𝟐. 𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐓𝐄𝐏**
+
+  
+
+
+   **𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐁𝐘**
+ 
+
+<a href="https://getsession-9a04ec726730.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+ 
+
+<a href="https://getsession-9a04ec726730.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+
+  **𝟑.𝐓𝐇𝐈𝐑𝐃 𝐒𝐓𝐄𝐏**  
+ 
+
+
+  **𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔(SAFE 100 %)**
+
+<a
+      href='https://signup.heroku.com/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-CREAT -purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+
+<a
+      href='https://dashboard.heroku.com/new?template=https://github.com/joeljamestech/JOEL-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+
+
+
+ 
+
+
+
+
+
+
+ **𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑**
 
 <table>
   <tr>
-    <td>ENZO</td>
-    
+    <td>POPKID TECH</td>
+    <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
   </tr>
   <tr>
-    <td><a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img src="https://i.ibb.co/p2Pb829/Screenshot-20240820-172338-Whats-App.jpg" width="180"</td>
+    <td><a href="https://wa.link/e9lbut"><img src="https://i.ibb.co/JyNgPx0/IMG-20240916-WA0014.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img src="https://i.ibb.co/kJYQ1PV/IMG-20240916-WA0017.jpg" width="180"</td>
   </tr>
 </table>
 
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Contributions
 
 
-Contributions to 𝐄𝐍𝐙𝐎 𝐌𝐃 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-## THANKS TO [GOD]
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## License
+<table>
+  <tr>
+    <td>𝚢𝚘𝚞 𝚝𝚞𝚋𝚎</td>
+    <td>𝚃𝚒𝚔 𝚝𝚘𝚔</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtube.com/@joeltech255?si=rqhYlAhFtqK7CVX2"><img src="https://i.ibb.co/kJYQ1PV/IMG-20240916-WA0017.jpg" width="180"</td>
+    <td><a href="https://www.tiktok.com/@joeljamestech"><img src="https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg" width="180"</td>
+  </tr>
+</table>
 
-The 𝐄𝐍𝐙𝐎 𝐌𝐃 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *𝐄𝐍𝐙𝐎 𝐌𝐃*  to enhance your Whatsapp more enjoyable ☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐄𝐍𝐙𝐎 𝐌𝐃
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+ *POPKID MD BEST WHATSAPP BOT*
+
+
+
+
+
+
+
+*𝙽𝚘𝚝𝚎* :*Popkid 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
+
++254111385747
+
+
+
+
+
+
