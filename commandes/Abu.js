@@ -50,7 +50,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-> ©TREX 𝐌𝐝
+> ©POPKID 𝐌𝐝
 `;
 
    var lien = mybotpic();
